@@ -1,0 +1,2 @@
+Si, secondo questa progettazione se l'utente inserisce più eventi nello stesso giorno verrà ripetuta la data di pubblicazione con lo stesso id utente
+nella tabella Comunicazione, sarebbe forse più ideale inserire la data di pubblicazione direttamente nella tabella Evento e che conterrà anche l'id del proprio autore (Cittadino)
